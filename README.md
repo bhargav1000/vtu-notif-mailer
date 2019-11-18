@@ -12,6 +12,6 @@ BeautifulSoup based notification scraper for the VTU website written in Python. 
 
 - To run the script type ```python3 vtunotifmailer.py``` on the command line and check your inbox.
 
-Currently works in Linux and OS X only, will release a Windows version soon :P
+Currently works in Linux and OS X only, will release a Windows compatible version soon :P
 
 
